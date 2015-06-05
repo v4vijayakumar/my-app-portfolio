@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proj0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_title">My Nanodegree Apps</string>
+    <string name="app_button1">Spotify Streamer</string>
+    <string name="app_button2">Scores App</string>
+    <string name="app_button3">Library App</string>
+    <string name="app_button4">Build It Bigger</string>
+    <string name="app_button5">Bacon Reader</string>
+    <string name="app_button6">Capstone: My Own App</string>
+
+</resources>
